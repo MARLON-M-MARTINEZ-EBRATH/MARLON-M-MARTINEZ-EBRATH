@@ -1,1 +1,48 @@
-¡Hola! Soy Marlon Martínez Ebrath 👋💼 Especialista de Soporte TI | 📍 Ubicación: Colombia👤 Sobre MíSoy egresado de Ingeniería de Sistemas y Computación, especializado en soporte técnico L1 y gestión de mesas de ayuda (Help Desk). Destaco por mi capacidad analítica para resolver incidencias de hardware, software y redes, con experiencia en Azure Active Directory y Jira, orientado al cumplimiento de SLAs y satisfacción del usuario.🛠️ Tecnologías y Herramientas💻 Soporte & Help Desk: Jira | Azure Active Directory | Microsoft Excel | L1 | SLAs🔌 Sistemas Operativos & Redes: Windows | Linux | Redes (WiFi/LAN)⚙️ Metodologías: Scrum | Git | GitHub🎓 Formación🎓 Generation Colombia — Especialista de Soporte TI (2026)📜 Corporación Universitaria Latinoamericana — Ingeniería de Sistemas y Computación (Egresado)📈 Estadísticas de GitHub y Contacto🌐 LinkedIn: Perfil de LinkedIn📧 Correo: marlon.martinezebrath@gmail.com(Puedes visualizar las estadísticas completas directamente en tu repositorio de GitHub mediante el enlace del panel).
+# ¡Hola! Soy Marlon Martínez Ebrath 👋
+<br>
+
+💼 **Especialista de Soporte TI** | 📍 **Ubicación:** Colombia
+
+---
+
+### 👤 Sobre Mí
+<br>
+
+Soy un profesional egresado de **Ingeniería de Sistemas y Computación** enfocado en soporte técnico L1 y mesas de ayuda, con experiencia en **Azure Active Directory**, **Jira** y cumplimiento de **SLAs**.
+
+---
+
+### 🎓 Formación Académica
+<br>
+
+* 🎓 **Generation Colombia** — Especialista de Soporte TI (2026)
+* 📜 **Corporación Universitaria Latinoamericana** — Ingeniería de Sistemas y Computación (Egresado, 2018 – 2022)
+* 🏫 **Instituto Dolores María Ucrós** — Bachiller con énfasis en Ciencias Básicas (2009)
+
+---
+
+### 💼 Experiencia Laboral
+<br>
+
+* 💻 **Atlantic BPO (Cliente: Claro Guatemala)** | *Especialista de Soporte Técnico Remoto (L1)* (Septiembre 2025 – Noviembre 2025)
+* 🛠️ **Mex Servicios y Tecnologías S.A.S.** | *Especialista de Soporte y Mesa de Ayuda (L1)* (Octubre 2023 – Marzo 2024)
+* 🏫 **Corporación Universitaria Latinoamericana** | *Practicante del Área de Sistemas (Pasantía)* (2022)
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+<br>
+
+* 💻 **Soporte & Help Desk:** Soporte Técnico L1, Help Desk, **Jira**, SLAs.
+* 🔐 **Administración de Identidades:** **Azure Active Directory**, Microsoft Excel.
+* 🔌 **Sistemas Operativos & Redes:** Windows, Linux, Redes (WiFi / LAN).
+* ⚙️ **Metodologías:** Scrum.
+
+---
+
+### 📬 Conéctate Conmigo
+<br>
+
+* 🌐 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 📧 **Correo Electrónico:** marlon.martinezebrath@gmail.com
+
