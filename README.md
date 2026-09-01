@@ -48,8 +48,8 @@ Soy un profesional egresado de **Ingeniería de Sistemas y Computación** con la
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de Marlon" width="48%"/>
-  <img src="https://vercel.app" alt="Lenguajes de Marlon" width="48%"/>
+  <img src="https://vercel.app" alt="MARLON-M-MARTINEZ-EBRATH" width="48%"/>
+  <img src="https://vercel.app" alt="MARLON-M-MARTINEZ-EBRATH" width="48%"/>
 </p>
 
 ---
